@@ -7,7 +7,7 @@
 
 ### 1. 安装selenium驱动程序
 
-可以参考[文档](https://www.selenium.dev/)完成相应浏览器驱动程序的安装。
+可以参考[文档](https://www.selenium.dev/)完成相应浏览器驱动程序的安装。（这一步很难）
 
 ### 2. 安装Python包依赖
 
